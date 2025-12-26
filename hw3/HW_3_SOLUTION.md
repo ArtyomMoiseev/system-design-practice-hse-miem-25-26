@@ -32,6 +32,6 @@ HAPproxy явлются единой точкой отказа, при оста�
 
 <img width="880" height="445" alt="Screenshot 2025-12-27 at 00 10 33" src="https://github.com/user-attachments/assets/c9fb641e-930f-44b7-91f1-39829d649e38" />
 
-При остановке primary узла Patrony, мы теряем возможности записи данных, но можем продолжать чиать сохранёные:
+При остановке primary узла Patrony, мы теряем возможности записи данных, но можем продолжать читать сохранённые:
 
 <img width="635" height="451" alt="image" src="https://github.com/user-attachments/assets/9d5565f7-17a3-47ca-9500-55ce87f8c921" />
